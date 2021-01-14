@@ -1,4 +1,4 @@
-##                                            Stack de testes de unidade e integrados em um projeto .NET de Crowdfunding
+##                                            Stack de testes de unidade e integrados em um projeto .NET de Crowdfunding :bar_chart:
 
 
 
