@@ -1,4 +1,4 @@
-## Stack de testes de unidade e integrados em um projeto .NET de Crowdfunding
+##                                            Stack de testes de unidade e integrados em um projeto .NET de Crowdfunding
 
 
 
@@ -9,7 +9,6 @@ Neste módulo do BootCamp Decola Dev da Avanade, o expert Eliézer Zarpelão dem
 ### Testes de unidade / UnitTest:
 
 Unidade: menor parte testável de um software 
-
 Orientação a Objetos: classe
 
 "Ele é chamado de teste de unidade porque você divide a funcionalidade do seu programa em comportamentos discretos que podem ser testados como *unidades* individuais."
@@ -31,11 +30,8 @@ https://docs.microsoft.com/pt-br/aspnet/core/test/integration-tests?view=aspnetc
 ### Testes automatizados:
 
 “Simula” ações do usuário 
-
 Aceitação: caixa preta 
-
 Regressão: garante integridade de versões passadas 
-
 Processo de automatização é caro: selecionar funcionalidades (se é viável sua aplicação para o projeto)
 
 "Automação de testes é o uso de software para controlar a execução de testes de software através da aplicação de estratégias e ferramentas, comparando os resultados esperados com os resultados reais. Seus objetivos são a redução do envolvimento humano em atividades manuais, de tempo demandado e de custo final."
@@ -47,7 +43,7 @@ Fonte extra: https://medium.com/venturus/quais-as-raz%C3%B5es-para-automa%C3%A7%
 ### TDD (Test Driven Development):
 
 <p align="left">
-  <img width="500" height="600" src="/imgs/TDD.jpg" alt="Imagem com o cilco do conceito de TDD ">
+  <img width="500" height="300" src="/imgs/TDD.jpg" alt="Imagem com o cilco do conceito de TDD ">
   </P>
 
 TDD é o Desenvolvimento Orientado por Testes. Desenvolvemos o nosso software baseado em testes que são escritos antes do nosso código de produção.
