@@ -1,4 +1,4 @@
-<p align="center" ><h2>Stack de testes de unidade e integrados em um projeto .NET de Crowdfunding :bar_chart:<h2></p>
+<p align="center" ><h2>Stack de testes de unidade e integrados em um projeto .NET de Crowdfunding :bar_chart:</h2></p>
 
 
 Neste módulo do BootCamp Decola Dev da Avanade, o expert Eliézer Zarpelão demonstra na prática os testes de unidade e testes integrados em um projeto de Crowdfunding (vaquinha - doação) desenvolvido por ele.
