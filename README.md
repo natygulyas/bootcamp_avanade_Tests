@@ -1,4 +1,4 @@
-##                                            Stack de testes de unidade e integrados em um projeto .NET de Crowdfunding :bar_chart:
+<p align="center" ><h2>Stack de testes de unidade e integrados em um projeto .NET de Crowdfunding :bar_chart:<h2></p>
 
 
 
@@ -6,14 +6,17 @@ Neste módulo do BootCamp Decola Dev da Avanade, o expert Eliézer Zarpelão dem
 
 
 
+
 ### Testes de unidade / UnitTest:
 
 Unidade: menor parte testável de um software 
+
 Orientação a Objetos: classe
 
 "Ele é chamado de teste de unidade porque você divide a funcionalidade do seu programa em comportamentos discretos que podem ser testados como *unidades* individuais."
 
 Fonte extra: https://docs.microsoft.com/pt-br/visualstudio/test/unit-test-basics?view=vs-2019
+
 
 
 
@@ -27,16 +30,21 @@ https://docs.microsoft.com/pt-br/aspnet/core/test/integration-tests?view=aspnetc
 
 
 
+
 ### Testes automatizados:
 
 “Simula” ações do usuário 
+
 Aceitação: caixa preta 
+
 Regressão: garante integridade de versões passadas 
+
 Processo de automatização é caro: selecionar funcionalidades (se é viável sua aplicação para o projeto)
 
 "Automação de testes é o uso de software para controlar a execução de testes de software através da aplicação de estratégias e ferramentas, comparando os resultados esperados com os resultados reais. Seus objetivos são a redução do envolvimento humano em atividades manuais, de tempo demandado e de custo final."
 
 Fonte extra: https://medium.com/venturus/quais-as-raz%C3%B5es-para-automa%C3%A7%C3%A3o-de-testes-c177cbd9397
+
 
 
 
